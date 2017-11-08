@@ -1,0 +1,29 @@
+#content div.large {
+    min-height: 300px;
+}
+
+#content div.bottom {
+    position: absolute;
+    bottom: -15px;
+    left: 0;
+}
+
+#content div.bottom input {
+    border-radius: 0;
+}
+
+.text {
+    position: absolute;
+    top: 50%;
+    font-weight: bold;
+    text-align: center;
+    width: 100%;
+}
+
+.text2 {
+    position: absolute;
+    top: 60%;
+    font-weight: bold;
+    text-align: center;
+    width: 100%;
+}
